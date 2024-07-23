@@ -2,3 +2,4 @@
 
 #done with first commit
 edited on git
+setup on git
